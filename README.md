@@ -1,4 +1,4 @@
-🏠 Blockchain-Based NFT Property Management System
+Blockchain-Based NFT Property Management System
 
 A decentralized property management platform that uses Blockchain and NFTs to enable secure property buying, selling, and ownership transfer. Each property is represented as a Non-Fungible Token (NFT), ensuring transparency, immutability, and fraud-free transactions.
 
